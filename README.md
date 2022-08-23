@@ -22,7 +22,7 @@
 기술스텍:<br>
 파이썬 / 자바
 <br><br/>
-[포크 떠오기](https://github.com/cmjcum/WM_front)
+[포크 떠오기](https://github.com/yinmsk/WM_back)
 ***
 
 ### 2. 녹턴앨리 B-street 지하2층 불법 입학 센터 (팀 프로젝트)
@@ -33,7 +33,7 @@
 기술스텍:<br>
 파이썬 / 자바
 <br><br/>
-[포크 떠오기](https://github.com/cmjcum/WM_front)
+[포크 떠오기](https://github.com/yinmsk/200ok_backend)
 ***
 
 ### 3. [웹타추] 일타강사 AI의 기막힌 추천 (팀 프로젝트)
@@ -44,7 +44,7 @@
 기술스텍:<br>
 파이썬 / 자바
 <br><br/>
-[포크 떠오기](https://github.com/cmjcum/WM_front)
+[포크 떠오기](https://github.com/yinmsk/webtachu)
 ***
 
 ### 4. [젤리모디] Jelly mood diary (팀 프로젝트)
@@ -55,27 +55,27 @@
 기술스텍:<br>
 파이썬 / 자바
 <br><br/>
-[포크 떠오기](https://github.com/cmjcum/WM_front)
+[포크 떠오기](https://github.com/yinmsk/Jellymodi_team)
 ***
 
 ### 5. Instagram Clone Coding (팀 프로젝트)
-[Jellymodi_team](https://github.com/cmjcum/Jellymodi_team)
+[instagram_flask](https://github.com/cmjcum/instagram_flask)
 > flask와 mongoDB를 이용하여 인스타그램을 클론하는 프로젝트입니다.<br>
 개발기간: 2022.05.3 - 2022.05.11
 <br><br/>
 기술스텍:<br>
 파이썬 / 자바
 <br><br/>
-[포크 떠오기](https://github.com/cmjcum/WM_front)
+[포크 떠오기](https://github.com/yinmsk/instagram_flask)
 ***
 
-### 6. Instagram Clone Coding (팀 프로젝트)
-[Jellymodi_team](https://github.com/cmjcum/Jellymodi_team)
+### 6. team-intro (팀 프로젝트)
+[team-intro](https://github.com/cmjcum/team-intro)
 > flask를 기반으로 제작하였으며 mongoDB를 사용하였습니다. 저희 팀과 각자에 대해 간단한 소개를 하는 웹페이지입니다.<br>
 개발기간: 2022.?.? - 2022.?.?
 <br><br/>
 기술스텍:<br>
 파이썬 / 자바
 <br><br/>
-[포크 떠오기](https://github.com/cmjcum/WM_front)
+[포크 떠오기](https://github.com/yinmsk/team-intro)
 ***

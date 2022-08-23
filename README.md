@@ -68,3 +68,14 @@
 <br><br/>
 [포크 떠오기](https://github.com/cmjcum/WM_front)
 ***
+
+### 6. Instagram Clone Coding (팀 프로젝트)
+[Jellymodi_team](https://github.com/cmjcum/Jellymodi_team)
+> flask를 기반으로 제작하였으며 mongoDB를 사용하였습니다. 저희 팀과 각자에 대해 간단한 소개를 하는 웹페이지입니다.<br>
+개발기간: 2022.?.? - 2022.?.?
+<br><br/>
+기술스텍:<br>
+파이썬 / 자바
+<br><br/>
+[포크 떠오기](https://github.com/cmjcum/WM_front)
+***

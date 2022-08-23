@@ -1,10 +1,10 @@
 # portfolio
-> 캐치 프라이즈 //////
+> 꾸준히 성장 중인 거북이
   
 <br><br/>
 
 ## 🥕 intro
-간단한 자기소개
+Python 기반의 Flask, Django, DRF를 이용한 웹페이지 제작 프로젝트를 진행했습니다.
 <br><br/>
 
 ## 🥕 contact
@@ -20,7 +20,7 @@
 개발기간: 2022.07.06 - 2022.08.16
 <br><br/>
 기술스텍:<br>
-DRF, AWS, Docker, Deepfake
+python, Django, javascript, DRF, deepfake, docker, AWS, postgreSQL
 <br><br/>
 [프로젝트 상세 설명](https://github.com/yinmsk/WM_back) 참고
 ***
@@ -31,7 +31,7 @@ DRF, AWS, Docker, Deepfake
 개발기간: 2022.06.28 - 2022.07.05
 <br><br/>
 기술스텍:<br>
-DRF, Style Transfer, Deepfake, S3
+python, Django, DRF, deepfake, style transfer, S3
 <br><br/>
 [프로젝트 상세 설명](https://github.com/yinmsk/200ok_backend) 참고
 ***
@@ -42,7 +42,7 @@ DRF, Style Transfer, Deepfake, S3
 개발기간: 2022.06.02 - 2022.06.14
 <br><br/>
 기술스텍:<br>
-Django, NLP, Vector Embedding, Crawling
+python, Django, MeCab, Doc2Vec, NLP, Vector Embedding, Crawling
 <br><br/>
 [프로젝트 상세 설명](https://github.com/yinmsk/webtachu) 참고
 ***
@@ -53,10 +53,12 @@ Django, NLP, Vector Embedding, Crawling
 개발기간: 2022.05.18 - 2022.05.25
 <br><br/>
 기술스텍:<br>
-Flask, Face detection, Classification
+python, flask, mongoDB, ajax, OpenCV, Face detection, Classification
 <br><br/>
 [프로젝트 상세 설명](https://github.com/yinmsk/Jellymodi_team) 참고
 ***
+
+
 
 ### 5. Instagram Clone Coding (팀 프로젝트)
 [instagram_flask](https://github.com/cmjcum/instagram_flask)

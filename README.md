@@ -22,7 +22,7 @@
 기술스텍:<br>
 파이썬 / 자바
 <br><br/>
-[포크 떠오기](https://github.com/yinmsk/WM_back)
+[프로젝트 상세 설명](https://github.com/yinmsk/WM_back) 참고
 ***
 
 ### 2. 녹턴앨리 B-street 지하2층 불법 입학 센터 (팀 프로젝트)
@@ -33,7 +33,7 @@
 기술스텍:<br>
 파이썬 / 자바
 <br><br/>
-[포크 떠오기](https://github.com/yinmsk/200ok_backend)
+[프로젝트 상세 설명](https://github.com/yinmsk/200ok_backend) 참고
 ***
 
 ### 3. [웹타추] 일타강사 AI의 기막힌 추천 (팀 프로젝트)
@@ -44,7 +44,7 @@
 기술스텍:<br>
 파이썬 / 자바
 <br><br/>
-[포크 떠오기](https://github.com/yinmsk/webtachu)
+[프로젝트 상세 설명](https://github.com/yinmsk/webtachu) 참고
 ***
 
 ### 4. [젤리모디] Jelly mood diary (팀 프로젝트)
@@ -55,7 +55,7 @@
 기술스텍:<br>
 파이썬 / 자바
 <br><br/>
-[포크 떠오기](https://github.com/yinmsk/Jellymodi_team)
+[프로젝트 상세 설명](https://github.com/yinmsk/Jellymodi_team) 참고
 ***
 
 ### 5. Instagram Clone Coding (팀 프로젝트)
@@ -66,7 +66,7 @@
 기술스텍:<br>
 파이썬 / 자바
 <br><br/>
-[포크 떠오기](https://github.com/yinmsk/instagram_flask)
+[프로젝트 상세 설명](https://github.com/yinmsk/instagram_flask) 참고
 ***
 
 ### 6. team-intro (팀 프로젝트)
@@ -77,5 +77,5 @@
 기술스텍:<br>
 파이썬 / 자바
 <br><br/>
-[포크 떠오기](https://github.com/yinmsk/team-intro)
+[프로젝트 상세 설명](https://github.com/yinmsk/team-intro) 참고
 ***

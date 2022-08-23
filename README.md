@@ -57,27 +57,3 @@ python, flask, mongoDB, ajax, OpenCV, Face detection, Classification
 <br><br/>
 [프로젝트 상세 설명](https://github.com/yinmsk/Jellymodi_team) 참고
 ***
-
-
-
-### 5. Instagram Clone Coding (팀 프로젝트)
-[instagram_flask](https://github.com/cmjcum/instagram_flask)
-> flask와 mongoDB를 이용하여 인스타그램을 클론하는 프로젝트입니다.<br>
-개발기간: 2022.05.3 - 2022.05.11
-<br><br/>
-기술스텍:<br>
-???
-<br><br/>
-[프로젝트 상세 설명](https://github.com/yinmsk/instagram_flask) 참고
-***
-
-### 6. team-intro (팀 프로젝트)
-[team-intro](https://github.com/cmjcum/team-intro)
-> flask를 기반으로 제작하였으며 mongoDB를 사용하였습니다. 저희 팀과 각자에 대해 간단한 소개를 하는 웹페이지입니다.<br>
-개발기간: 2022.?.? - 2022.?.?
-<br><br/>
-기술스텍:<br>
-???
-<br><br/>
-[프로젝트 상세 설명](https://github.com/yinmsk/team-intro) 참고
-***

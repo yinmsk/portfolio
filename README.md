@@ -1,7 +1,6 @@
 # portfolio
 > 꾸준히 성장 중인 거북이
   
-<br><br/>
 
 ## 🥕 intro
 Python 기반의 Flask, Django, DRF를 이용한 웹페이지 제작 프로젝트를 진행했습니다.

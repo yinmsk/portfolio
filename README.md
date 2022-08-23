@@ -20,7 +20,7 @@
 개발기간: 2022.07.06 - 2022.08.16
 <br><br/>
 기술스텍:<br>
-파이썬 / 자바
+DRF, AWS, Docker, Deepfake
 <br><br/>
 [프로젝트 상세 설명](https://github.com/yinmsk/WM_back) 참고
 ***
@@ -31,7 +31,7 @@
 개발기간: 2022.06.28 - 2022.07.05
 <br><br/>
 기술스텍:<br>
-파이썬 / 자바
+DRF, Style Transfer, Deepfake, S3
 <br><br/>
 [프로젝트 상세 설명](https://github.com/yinmsk/200ok_backend) 참고
 ***
@@ -42,7 +42,7 @@
 개발기간: 2022.06.02 - 2022.06.14
 <br><br/>
 기술스텍:<br>
-파이썬 / 자바
+Django, NLP, Vector Embedding, Crawling
 <br><br/>
 [프로젝트 상세 설명](https://github.com/yinmsk/webtachu) 참고
 ***
@@ -53,7 +53,7 @@
 개발기간: 2022.05.18 - 2022.05.25
 <br><br/>
 기술스텍:<br>
-파이썬 / 자바
+Flask, Face detection, Classification
 <br><br/>
 [프로젝트 상세 설명](https://github.com/yinmsk/Jellymodi_team) 참고
 ***
@@ -64,7 +64,7 @@
 개발기간: 2022.05.3 - 2022.05.11
 <br><br/>
 기술스텍:<br>
-파이썬 / 자바
+???
 <br><br/>
 [프로젝트 상세 설명](https://github.com/yinmsk/instagram_flask) 참고
 ***
@@ -75,7 +75,7 @@
 개발기간: 2022.?.? - 2022.?.?
 <br><br/>
 기술스텍:<br>
-파이썬 / 자바
+???
 <br><br/>
 [프로젝트 상세 설명](https://github.com/yinmsk/team-intro) 참고
 ***

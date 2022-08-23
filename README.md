@@ -35,3 +35,36 @@
 <br><br/>
 [포크 떠오기](https://github.com/cmjcum/WM_front)
 ***
+
+### 3. [웹타추] 일타강사 AI의 기막힌 추천 (팀 프로젝트)
+[webtachu](https://github.com/cmjcum/webtachu)
+> 사용자가 좋아요를 누른 소설의 줄거리와 유사도가 높은 작품을 추천해주는 서비스를 제공하는 웹사이트<br>
+개발기간: 2022.06.02 - 2022.06.14
+<br><br/>
+기술스텍:<br>
+파이썬 / 자바
+<br><br/>
+[포크 떠오기](https://github.com/cmjcum/WM_front)
+***
+
+### 4. [젤리모디] Jelly mood diary (팀 프로젝트)
+[Jellymodi_team](https://github.com/cmjcum/Jellymodi_team)
+> Python OpenCV 를 이용하여 얼굴 표정을 인식하고, 분석한 표정에 해당하는 젤리 이모티콘을 넣어 일기를 쓰는 웹사이트 제작<br>
+개발기간: 2022.05.18 - 2022.05.25
+<br><br/>
+기술스텍:<br>
+파이썬 / 자바
+<br><br/>
+[포크 떠오기](https://github.com/cmjcum/WM_front)
+***
+
+### 5. Instagram Clone Coding (팀 프로젝트)
+[Jellymodi_team](https://github.com/cmjcum/Jellymodi_team)
+> flask와 mongoDB를 이용하여 인스타그램을 클론하는 프로젝트입니다.<br>
+개발기간: 2022.05.3 - 2022.05.11
+<br><br/>
+기술스텍:<br>
+파이썬 / 자바
+<br><br/>
+[포크 떠오기](https://github.com/cmjcum/WM_front)
+***

@@ -25,7 +25,7 @@ python, Django, javascript, DRF, deepfake, docker, AWS, postgreSQL
 [프로젝트 상세 설명](https://github.com/yinmsk/WM_back) 참고
 ***
 
-### 2. [200ok]녹턴앨리 B-street 지하2층 불법 입학 센터 (팀 프로젝트)
+### 2. [200ok] 녹턴앨리 B-street 지하2층 불법 입학 센터 (팀 프로젝트)
 [200ok_backend](https://github.com/cmjcum/200ok_backend) &nbsp; [200ok_frontend](https://github.com/cmjcum/200ok_frontend)
 > 해리포터 컨셉, 사람 사진을 초상화처럼 스타일을 변경하고 움직임을 추가해서 움직이는 초상화를 만들고 머신러닝을 통해 기숙사를 분류해주는 웹사이트<br>
 개발기간: 2022.06.28 - 2022.07.05

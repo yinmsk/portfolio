@@ -1,6 +1,4 @@
 # portfolio
-> 꾸준히 성장 중인 거북이
-  
 <br><br/>
 
 ## 🥕 intro

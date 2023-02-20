@@ -35,7 +35,7 @@ Python 3.7, Django REST Framework 3.13, javascript
 개발기간: 2022.06.02 - 2022.06.14
 <br><br/>
 기술스텍:<br>
-Python 3.8, Django 3.2, bs4 4.11
+Python 3.8, Django 3.2
 <br><br/>
 ***
 
@@ -44,6 +44,6 @@ Python 3.8, Django 3.2, bs4 4.11
 개발기간: 2022.05.18 - 2022.05.25
 <br><br/>
 기술스텍:<br>
-Python 3.8, Flask, MongoDB, Tensorflow 2.9
+Python 3.8, Flask, MongoDB
 <br><br/>
 ***

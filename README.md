@@ -17,7 +17,7 @@ Python 기반의 Flask, Django, DRF를 이용한 웹페이지 제작 프로젝�
 개발기간: 2022.07.06 - 2022.08.16
 <br><br/>
 기술스텍:<br>
-Python 3.7, Django REST Framework 3.13, javascript
+Python, Django REST Framework, javascript
 <br><br/>
 ***
 
@@ -26,7 +26,7 @@ Python 3.7, Django REST Framework 3.13, javascript
 개발기간: 2022.06.28 - 2022.07.05
 <br><br/>
 기술스텍:<br>
-Python 3.7, Django REST Framework 3.13, javascript
+Python, Django REST Framework, javascript
 <br><br/>
 ***
 
@@ -35,7 +35,7 @@ Python 3.7, Django REST Framework 3.13, javascript
 개발기간: 2022.06.02 - 2022.06.14
 <br><br/>
 기술스텍:<br>
-Python 3.8, Django 3.2
+Python, Django
 <br><br/>
 ***
 
@@ -44,6 +44,6 @@ Python 3.8, Django 3.2
 개발기간: 2022.05.18 - 2022.05.25
 <br><br/>
 기술스텍:<br>
-Python 3.8, Flask, MongoDB
+Python, Flask, MongoDB
 <br><br/>
 ***
